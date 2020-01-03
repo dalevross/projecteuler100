@@ -41,8 +41,6 @@ I'm using the Project Euler Website and since I committed to learning Rust as se
 My Log is maintained here : [Logs](Logs.md)
 
 
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 [qc]: https://twitter.com/ossia
 [fcc]: https://freecodecamp.org
 [fcce]: https://www.freecodecamp.org/learn/coding-interview-prep/project-euler/
