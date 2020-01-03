@@ -15,7 +15,5 @@ src/*.pdb
 #
 #already existing elements are commented out
 
-#/target
-#**/*.rs.bk
 Cargo.lock
-src/p001.rs
+

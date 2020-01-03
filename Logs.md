@@ -3,7 +3,8 @@ This will be somewhat like a diary of me learning rust while doing Project Euler
 Day 1 Installed [Rust][rust] and [Rustlings][rustlings]
 
 Templates are being used until sharing on github query is answered.
-[Problem 1][p001] [Solution](src/t001.rs)
+
+[Problem 1][p001] [Solution](src/p001.rs) [Template](src/t001.rs)
 
 [rustlings]: https://github.com/rust-lang/rustlings/
 
