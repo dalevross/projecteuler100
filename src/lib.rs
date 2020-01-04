@@ -19,7 +19,7 @@ pub fn test_p001(limit: i32 ) -> i32 {
 ///
 /// assert_eq!(44, answer);
 /// ```
-pub fn test_p002(limit: i32 ) -> i32 {
+pub fn test_p002(limit: i64 ) -> i64 {
    p002::run(limit)
 }
 
