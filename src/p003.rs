@@ -28,7 +28,6 @@ fn get_largest_prime_factor(mut number: i64, start: i64) -> i64
         range = range.into_iter().filter(|mul| *mul % num != 0 && num != *mul).collect();
         
         
-        //println!("{:?}",range);
         //replace the max if this number is greater and is a factor. 
         //It should have no factors and would therefore be prime as
         //a previous element would have removed it as a multiple;
